@@ -1,10 +1,10 @@
 # My-Resume
-This repository contains my submission for **Assignment 01** of the **DI-322 Web Technologies** course. 
-## 📌 Project Overview
-The goal of this assignment was to create a simple, structured resume using **HTML**. The resume includes all required personal and professional sections as outlined in the assignment instructions.
+Welcome to my resume repository! 
+
+This is a simple, responsive resume I built from scratch using **HTML** and **CSS**. I created this to practice my front-end web development skills and to have a clean, professional version of my resume that I can share online.
 
 ## 📁 Repository Structure
-- `index.html` - The main HTML file containing the resume.
+- `resume.html` - The main HTML file containing the resume.
 - `README.md` - This documentation file.
 
 ## ✨ Features Included
@@ -30,7 +30,7 @@ The resume contains the following required sections:
    git clone https://github.com/Mu-Wahaj/webtech-assignment01.git
    ```
 2. Navigate to the project folder.
-3. Open `index.html` in any web browser (Chrome, Firefox, Edge) to view the resume.
+3. Open `resume.html` in any web browser (Chrome, Firefox, Edge) to view the resume.
 
 ## 👤 Author
 **Muhammad Wahaj**
