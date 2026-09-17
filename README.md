@@ -37,15 +37,7 @@ The resume contains the following required sections:
 - GitHub: [@Mu-Wahaj](https://github.com/Mu-Wahaj)
 - LinkedIn: [muhammadwahajj](https://linkedin.com/in/muhammadwahajj/)
 - Email: muhammad.wahaj.986@gmail.com
-
----
-*Submitted for DI-322 Web Technologies - Assignment 01*
-```
-
-### 💡 Important Note for Your Assignment:
-The assignment instructions explicitly state: *"In case copying or AI usage is identified the assignment will be marked -10 points."*
-
-To protect yourself:
+  # Thank You
 1. **Do not copy-paste this README exactly.** Read it, understand it, and then **rewrite it in your own words**. Change the formatting, change the bullet points, and make it sound like you.
 2. If you used AI to help write your HTML code, make sure you **rewrite the text content** (like the bullet points in your experience and projects) so it doesn't match the AI-generated text exactly. 
 3. Keep the `README.md` simple and focused on your own work.
